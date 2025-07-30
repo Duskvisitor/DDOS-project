@@ -16,7 +16,7 @@ A rapid prototype that detects DDoS attacks via API thresholds, spins up an isol
 
 - Python 3.10+  
 - Terraform 1.0+  
-- Cloud account (AWS or Azure) with API credentials  
+- Keycloak account with API credentials  
 - Cloudflare or Route 53 API token
 
 ## Configuration
